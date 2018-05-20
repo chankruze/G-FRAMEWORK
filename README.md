@@ -1,9 +1,9 @@
 # G-FRAMEWORK
-Download Videos From Yooutube Server
+**Download Videos From Youtube Server**
 
-1. COPY G-FRAMEWORK.EXE INTO THE FOLDER WHERE THE VIDEO WILL BE DOWNLOADED.
+1. Cpoy G-FRAMEWORK.exe to the folder where you want to download videos or use destination folder argument.
 
-2. OPEN COMMAND PROMPT THERE.
+2. Open Command Prompt there.
 
-3. INPUT COMMAND "G-FRAMEWORK HTTPS://EXAMPLE.COM/VIDEOS"
-   **REPLACE HTTPS://EXAMPLE.COM/VIDEOS WITH YOUR LINK.**
+3. Input Command "G-FRAMEWORK HTTPS://EXAMPLE.COM/VIDEOS"
+   **REPLACE HTTPS://EXAMPLE.COM/VIDEOS with your Youtube link.**
